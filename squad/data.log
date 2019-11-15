@@ -1,0 +1,6 @@
+10/18/2019 11:15:18 - INFO - pytorch_pretrained_bert.tokenization -   loading vocabulary file ../pt_model/RoBERTa_zh_Large/vocab.txt
+10/18/2019 11:15:35 - INFO - __main__ -   ***** Running training *****
+10/18/2019 11:15:35 - INFO - __main__ -     Num orig examples = 11972
+10/18/2019 11:15:35 - INFO - __main__ -     Num split examples = 11972
+10/18/2019 11:15:40 - INFO - __main__ -     Num orig examples = 2918
+10/18/2019 11:15:40 - INFO - __main__ -     Num split examples = 2917

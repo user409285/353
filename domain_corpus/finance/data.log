@@ -1,0 +1,11 @@
+10/18/2019 11:14:52 - INFO - pytorch_pretrained_bert.tokenization -   loading vocabulary file ../pt_model/RoBERTa_zh_Large/vocab.txt
+10/18/2019 11:15:14 - INFO - root -   *** Example ***
+10/18/2019 11:15:14 - INFO - root -   tokens: [CLS] 5 日 消 息 [MASK] 近 日 ， 菲 尼 [MASK] 斯 太 阳 宣 [MASK] 与 在 线 支 付 服 务 商 paypal 蛋 成 球 衣 胸 [MASK] 广 告 [MASK] 议 ， 除 此 之 外 ， [MASK] 还 成 为 菲 尼 克 斯 太 阳 队 官 方 [MASK] 付 合 作 伙 伴 ， 太 阳 也 成 为 nba 第 25 支 签 下 胸 前 广 告 [MASK] [SEP] 金 盛 二 元 [MASK] 权 @ 微 156 ##22 ##34 [MASK] ##57 @ q1 [MASK] [MASK] ##06 [MASK] ##9 [SEP]
+10/18/2019 11:15:14 - INFO - root -   *** Example ***
+10/18/2019 11:15:14 - INFO - root -   tokens: [CLS] ， 填 写 个 人 信 息 并 绑 定 银 行 卡 ， 成 为 该 支 付 平 台 [MASK] 用 户 。 北 [MASK] [MASK] [MASK] 改 委 表 示 ， 协 会 仅 [MASK] 京 东 支 付 为 报 名 [MASK] 道 ， [MASK] [SEP] 中 ， 直 接 对 微 [MASK] 和 [MASK] 付 宝 的 余 额 进 行 提 现 。 < 峽 b [MASK] < b > 专 家 ： 非 银 [MASK] 支 付 机 构 无 提 现 权 bit < / b > < b > [SEP]
+10/18/2019 11:15:14 - INFO - root -   *** Example ***
+10/18/2019 11:15:14 - INFO - root -   tokens: [CLS] 一 个 内 心 丰 富 的 人 [MASK] 不 害 怕 独 处 ， 也 不 害 怕 人 群 ， 因 为 他 们 可 以 在 独 处 时 [MASK] ##赵 东 ##稗 [MASK] 提 现 # 京 东 白 [MASK] 提 现 # 京 东 [SEP] 交 招 [MASK] 书 计 划 募 集 资 [MASK] 2 亿 美 元 美 国 东 部 时 间 10 月 26 [MASK] ， 互 联 ##◕ 消 [MASK] ##堀 融 平 台 360 金 融 正 式 向 美 国 证 [MASK] 交 易 委 员 [SEP]
+10/18/2019 11:15:14 - INFO - root -   *** Example ***
+10/18/2019 11:15:14 - INFO - root -   tokens: [CLS] 以 后 [MASK] 和 你 的 声 . . . 全 文 ： [MASK] 我 做 过 [MASK] [MASK] 的 事 情 就 是 遇 见 京 东 白 ##● 提 现 駄 勇 敢 · 互 助 · 感 恩 [UNK] 京 东 白 条 提 现 [UNK] 对 [MASK] 宜 宾 [SEP] 由 于 世 袭 公 [MASK] 的 违 法 运 营 ， 致 [MASK] 365 金 [MASK] [MASK] 台 资 金 链 断 裂 [MASK] 导 致 投 资 人 出 借 款 无 法 提 现 ， 造 [MASK] 巨 大 损 失 [SEP]
+10/18/2019 11:15:14 - INFO - root -   *** Example ***
+10/18/2019 11:15:14 - INFO - root -   tokens: [CLS] ， 就 是 通 过 门 把 手 [MASK] 机 械 运 动 ， 带 动 齿 轮 转 动 [MASK] 进 而 带 动 电 [MASK] 运 [MASK] ， 从 而 给 蓄 电 池 充 [MASK] 023 实 现 机 械 能 量 [MASK] 电 能 [MASK] [SEP] ， 我 觉 得 全 世 界 都 忽 略 了 我 。 . [MASK] . 全 [MASK] [MASK] ? 你 京 东 白 条 提 现 一 勇 敢 · [MASK] 助 · 感 恩 [UNK] 京 东 白 条 提 现 [UNK] 对 话 [MASK] 宾 [SEP]
